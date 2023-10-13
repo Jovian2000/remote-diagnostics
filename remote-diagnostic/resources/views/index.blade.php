@@ -12,7 +12,7 @@
             <ul>
                 <li><a href="index.php" title="Home Pagina"><i data-feather="anchor"></i></a></li>
                 <li><a href="#map" title="Map"><i data-feather="compass"></i></a></li>
-                <li><a href="account.php" title="Account Pagina"><i data-feather="user"></i></a></li>
+                <li><a href="login.php" title="Account Pagina"><i data-feather="user"></i></a></li>
             </ul>
         </nav>
     </header>
@@ -31,7 +31,7 @@
             </div>
         </div>
     </div>
-    <div id="container">
+    <div class="container">
         <div class="ships">
             <div id="ship1" class="ship">
                 <img src="img/coal_boat_icon.png" alt="icon of ship">
