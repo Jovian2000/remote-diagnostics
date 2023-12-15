@@ -1,0 +1,443 @@
+# Webalizer V2.23-08 Incremental Data - 12/14/2023 12:03:19
+2023 12 14 12 3 19
+212 9 70 6 7 45 288872 119 57 0
+1 5 99 1 14
+1 0 481 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+146 9 201990 45 91 35
+38 0 29505 10 9 7
+2 0 3864 1 2 1
+0 0 0 0 0 0
+6 0 20382 5 6 5
+3 0 7193 3 3 3
+1 0 3327 1 1 1
+8 0 18578 5 7 5
+2 0 962 2 0 0
+0 0 0 0 0 0
+5 0 2590 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+106 9 105815 62
+8 0 3696 0
+8 0 3715 0
+6 0 5857 1
+4 0 10941 4
+0 0 0 0
+2 0 4010 1
+2 0 3866 2
+1 0 3308 1
+4 0 10502 4
+1 0 3519 1
+1 0 3519 1
+15 0 36200 5
+3 0 4267 3
+5 0 8153 3
+19 0 42565 17
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 0 12661 6
+0 0 0 0
+6 0 11582 4
+3 0 4154 2
+10 0 10542 2
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+33
+164
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/.well-known/acme-challenge/letsencrypt_1701645332_f0500ecb0ce9fc93
+0 1 0 244 0 0
+/.well-known/acme-challenge/uWmJLTBWf4krZGLJfVmRrCJ70kXu2yhw7Xn9W5T3ZQY
+0 2 0 812 0 0
+/.well-known/acme-challenge/DRsNlk7ker6VRDF05yarFHNFTJ9L4nKIE9wj67V1VXo
+0 3 0 1218 0 0
+/.well-known/acme-challenge/letsencrypt_1701645332_bf9a9375bc149404
+0 1 0 244 0 0
+/.well-known/acme-challenge/letsencrypt_1701645332_5030a05d5323c096
+0 1 0 244 0 0
+/.well-known/acme-challenge/letsencrypt_1701645332_520dfee02a661f3b
+0 1 0 244 0 0
+# End Of Table - urls
+# -sites- (monthly)
+165.227.140.198
+0 2 0 3865 1 1701696588
+-
+2600:3000:1511:200::86
+0 1 1 406 0 0
+-
+178.208.176.96
+0 2 0 3692 1 1701702095
+-
+205.169.39.123
+0 1 0 402 1 1701648968
+-
+176.53.223.128
+0 1 0 402 1 1701810863
+-
+104.164.173.195
+0 1 0 3590 1 1701649045
+-
+2600:3000:1511:200::84
+0 1 1 406 0 0
+-
+139.144.150.45
+0 17 0 7829 1 1701648966
+-
+34.243.127.52
+0 1 0 365 1 1701737308
+-
+65.154.226.167
+0 1 0 402 1 1701648960
+-
+16.171.195.77
+0 2 0 6653 1 1702072446
+-
+47.88.87.97
+0 1 0 3308 0 0
+-
+47.242.224.70
+0 2 0 6617 2 1701682305
+-
+103.159.239.224
+0 1 0 481 0 0
+-
+176.53.220.110
+0 1 0 518 0 0
+-
+52.213.129.42
+0 1 0 3538 1 1702011268
+-
+91.92.249.164
+0 33 0 15246 0 0
+-
+193.143.1.139
+0 2 0 6653 0 0
+-
+143.198.65.174
+0 2 0 3865 1 1701769770
+-
+133.242.174.119
+0 2 0 4009 1 1701659801
+-
+34.242.112.255
+0 1 0 3537 1 1702008495
+-
+2600:1f16:269:da02:563e:b620:2e1:33ef
+0 1 1 406 0 0
+-
+2600:1f14:804:fd02:9fbf:73ba:6533:18d6
+0 1 1 406 0 0
+-
+199.45.154.18
+0 1 0 346 1 1702161533
+-
+157.245.104.183
+0 2 0 3866 1 1701665239
+-
+149.102.246.14
+0 1 0 3590 1 1701649019
+-
+2a03:b0c0:2:d0::5b0:a001
+0 2 0 730 1 1701648966
+-
+2a03:b0c0:3:d0::11fa:8001
+0 2 0 6653 1 1701648967
+-
+2001:41d0:404:200::2aa
+0 8 0 17815 1 1701702107
+-
+51.178.81.195
+0 2 0 3692 1 1701702067
+-
+2600:1f16:269:da00:6143:a0da:49c9:5116
+0 1 1 406 0 0
+-
+206.189.60.60
+0 2 0 3866 1 1701762513
+-
+89.104.101.243
+0 1 0 402 1 1701805094
+-
+2a01:4f8:10a:2d6::2
+0 2 0 804 2 1701695039
+-
+35.172.194.123
+0 2 0 3866 1 1702323760
+-
+2602:feda:d66:0:5054:ff:fe06:3973
+0 1 0 481 0 0
+-
+139.144.150.23
+0 17 0 7829 1 1701648966
+-
+54.225.54.125
+0 1 0 3589 1 1701692217
+-
+2604:a880:400:d0::2095:6001
+0 2 0 6654 1 1701648968
+-
+2a01:7c8:d006:25b::1
+0 4 4 976 0 0
+-
+161.35.246.138
+0 2 0 3693 1 1701702070
+-
+84.17.42.46
+0 2 0 6653 1 1701702104
+-
+176.53.217.213
+0 2 0 4009 1 1701810876
+-
+47.89.193.162
+0 1 0 3308 0 0
+-
+89.104.100.232
+0 1 0 518 0 0
+-
+179.43.169.181
+0 1 0 3519 1 1701694595
+-
+146.190.13.187
+0 1 0 3327 1 1701702083
+-
+47.89.195.210
+0 1 0 3308 0 0
+-
+195.74.76.198
+0 1 0 126 1 1701649063
+-
+65.21.65.198
+0 2 0 7038 1 1701648967
+-
+104.234.204.32
+0 4 0 13310 4 1702287192
+-
+167.99.8.63
+0 18 0 20011 1 1701648972
+-
+93.183.131.53
+0 1 0 481 0 0
+-
+62.72.172.29
+0 2 0 6757 1 1701649043
+-
+171.244.43.14
+0 2 0 4010 1 1701672995
+-
+176.53.217.7
+0 2 0 4010 1 1701805097
+-
+199.45.155.17
+0 1 0 3520 1 1702165347
+-
+47.254.85.182
+0 1 0 3309 1 1701692450
+-
+2a01:7e00::f03c:93ff:feb8:1cd
+0 2 0 730 1 1701648966
+-
+47.254.25.10
+0 1 0 3308 1 1701692451
+-
+139.59.182.142
+0 18 0 20012 1 1701648967
+-
+51.81.46.212
+0 2 0 7038 2 1702293474
+-
+18.215.159.15
+0 2 0 3865 1 1702323869
+-
+198.54.132.102
+0 1 0 3590 1 1701649093
+-
+185.232.22.219
+0 2 0 3693 1 1701702067
+-
+138.68.75.74
+0 2 0 3864 1 1701871239
+-
+38.121.43.104
+0 5 0 2590 0 0
+-
+47.251.11.3
+0 1 0 3307 0 0
+-
+212.38.40.210
+0 1 0 481 0 0
+-
+3.111.52.139
+0 1 0 3326 1 1702079774
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+38.121.43.104
+0 5 0 2590 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://www.remdiag.davinci-itenmedia.nl/
+0 10
+- (Direct Request)
+0 188
+https://www.remdiag.davinci-itenmedia.nl/KukYWUnxn
+0 1
+www.google.com
+0 5
+https://www.remdiag.davinci-itenmedia.nl/favicon.ico
+0 1
+http://www.remdiag.davinci-itenmedia.nl/
+0 6
+http://www.remdiag.davinci-itenmedia.nl/favicon.ico
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_1_1 like Mac OS X; da-dk) AppleWebKit/534.46.0 (KHTML, like Gecko) CriOS/19.0.1084.60
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.4.154.31 Safari/525.19
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+0 1
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/95.0
+0 4
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 5
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:39.0) Gecko/20100101 Firefox/39.0
+0 1
+Mozilla/5.0 (Linux; Android 12; SM-G970U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.61 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; cs; rv:1.9) Gecko/2008052906
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_0_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0.1 Mobile/15E14
+0 3
+Go-http-client/1.1
+0 92
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA204864) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2291.98 Mobil
+0 4
+Python/3.9 aiohttp/3.9.1
+0 2
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_4; en-US) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/534.1
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36
+0 8
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (X11; Linux i686; rv:10.0) Gecko/20100101 Firefox/10.0
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_6; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/ Safari/530.5
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/119.0.2151.78 Version/
+0 1
+Mozilla/5.0 (Linux; Android 11; SM-A217F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux i686; rv:64.0) Gecko/20100101 Firefox/64.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 Slackware/13.37 (X11; U; Linux x86_64; en-US) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.41
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 1
+Opera/9.80 (Windows NT 6.1; U; en) Presto/2.7.62 Version/11.01
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.80 Mobile Safari/537.36
+0 2
+python-requests/2.27.1
+0 2
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+0 5
+Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile S
+0 4
+Mozilla/5.0 (X11; U; FreeBSD i386; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.207.0 Safari/532.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0
+0 3
+Mozilla/5.0 (Linux; Android 11; M2004J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+0 1
+curl/7.29.0
+0 4
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+0 10
+Mozilla/5.0 (l9scan/2.0.035313e2534323e2434313e2633313; +https://leakix.net)
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
