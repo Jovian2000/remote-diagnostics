@@ -14,7 +14,7 @@ class ConfigServiceProvider extends ServiceProvider
         //
         $this->app->bind('path.public', function() {
             return realpath('../public_html');
-        })
+        });
     }
 
     /**

@@ -44,4 +44,3 @@ class Users extends Authenticatable
     ];
 }
 
-protected $fillable = ['ship_id', 'user_name', 'ship_name', 'owner_name', 'company', 'icon', 'roles', 'password'];
